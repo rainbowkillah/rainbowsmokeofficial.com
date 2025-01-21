@@ -1,5 +1,6 @@
 #protectedContent { 
     display: none;
+    position: top;
 }
 .header {
     background-color: #4CAF50;
@@ -7,10 +8,14 @@
     padding: 10px 0;
     text-align: center;
 }
+.header h1 {
+    margin: 0;
+}
 .content {
     position: top;
     padding: 20px;
 }
+
 .footer {
     position: fixed;
     left: 0;
