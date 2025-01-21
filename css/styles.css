@@ -8,6 +8,7 @@
     text-align: center;
 }
 .content {
+    position: top;
     padding: 20px;
 }
 .footer {
