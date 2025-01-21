@@ -4,7 +4,7 @@
 }
 .header {
     background-color: black;
-    color: black;
+    color: whitesmoke;
     padding: 10px 0;
     text-align: center;
 }
@@ -14,6 +14,12 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+.header h2 {
+    color: whitesmoke;
+}
+.header p {
+     color: whitesmoke;
 }
 .content {
     position: top;
