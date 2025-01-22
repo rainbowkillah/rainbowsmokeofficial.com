@@ -3,7 +3,6 @@
     position: top;
 }
 .header {
-    background-color: black;
     color: whitesmoke;
     padding: 10px 0;
     text-align: center;
@@ -16,10 +15,10 @@
     -webkit-text-fill-color: transparent;
 }
 .header h2 {
-    color: whitesmoke;
+    color: black;
 }
 .header p {
-     color: whitesmoke;
+     color: black;
 }
 .content {
     position: top;
