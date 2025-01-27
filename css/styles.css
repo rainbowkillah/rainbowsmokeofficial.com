@@ -1,3 +1,7 @@
+#protectedContent { 
+    display: none;
+	position: top;
+}
 .header {
     text-align: center;
 }
@@ -24,7 +28,4 @@
     background-color: #111;
     color: white;
     text-align: center;
-}
-#protectedContent { 
-    display: none;
 }
