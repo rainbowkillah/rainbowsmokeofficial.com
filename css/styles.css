@@ -3,6 +3,7 @@
 }
 .header h1 {
     text-shadow: black 1px 1px 1px;
+	text-size: 28px;
     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet, red);
     background-clip: text;
     -webkit-background-clip: text;
