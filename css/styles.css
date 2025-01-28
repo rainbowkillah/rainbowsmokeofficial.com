@@ -6,29 +6,49 @@
     text-align: center;
 }
 .header h1 {
+    font-family: "olivita", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     text-shadow: black 1px 1px 1px;
-	text-size: 28px;
     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet, red);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .header h2 {
+    font-family: "chennai", sans-serif;
+    font-weight: 400;
+    font-style: italic;
     color: black;
 }
 .header p {
+    font-family: "chennai", sans-serif;
+    font-weight: 400;
+    font-style: italic;
     color: black;
 }
 .content {
 }
+.content a {
+    font-family: "chennai", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: black;
+}
+.content h3 {
+    font-family: "chennai", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: black;
+}
 .footer {
+    font-family: "chennai", sans-serif;
+    font-weight: 400;
+    font-style: italic;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: #111;
     color: white;
     text-align: center;
-}
-#protectedContent { 
-    display: none;
 }
